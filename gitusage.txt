@@ -1,0 +1,1 @@
+  Use 'git log' to log commit history, if you dont want the detail message showsuse 'git log --pretty=oneline',then you'll get the log you want.
